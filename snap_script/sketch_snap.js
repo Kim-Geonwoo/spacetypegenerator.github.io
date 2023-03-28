@@ -45,6 +45,9 @@ function preload(){
   tFont[3] = loadFont("snap_resources/IBMPlexMono-BoldItalic.ttf");
   tFont[4] = loadFont("snap_resources/SpaceMono-Regular.ttf");
   tFont[5] = loadFont("snap_resources/SpaceGrotesk-Bold.ttf");
+  tFont[6] = loadFont("snap_resources/MapoFlowerIsland-edited.otf");
+  tFont[7] = loadFont("snap_resources/MapoGoldenPier-edited.otf");
+  tFont[8] = loadFont("snap_resources/NeoDunggeunmoPro-Regular.ttf");
 }
 
 function setup(){

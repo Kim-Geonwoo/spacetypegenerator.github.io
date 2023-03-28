@@ -55,6 +55,9 @@ function preload(){
   tFont[4] = loadFont("resources/ApocLC-Regular-Desktop.otf");
   tFont[5] = loadFont("resources/BaseNeueTrial-CondensedBlack.otf");
   tFont[6] = loadFont("resources/Cairo-Black.ttf");
+  tFont[7] = loadFont("snap_resources/MapoFlowerIsland-edited.otf");
+  tFont[8] = loadFont("snap_resources/MapoGoldenPier-edited.otf");
+  tFont[9] = loadFont("snap_resources/NeoDunggeunmoPro-Regular.ttf");
 
   currentFont = tFont[0];
   thisFontAdjust = 0.7;
